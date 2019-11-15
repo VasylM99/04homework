@@ -250,7 +250,11 @@ color: #344159;
     display: flex;
 align-content: space-between ;
 padding-top: 49px;
-
+font-family: Lato;
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 26px;
 }
 
 
